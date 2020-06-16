@@ -16,4 +16,5 @@
            #:mailbox-receive-message-no-hang
            #:mailbox-count
            #:mailbox-list-messages
-           #:mailbox-receive-pending-messages))
+           #:mailbox-receive-pending-messages
+           #:%make-mailbo))
